@@ -6,7 +6,7 @@ Features:
 * Get the latest BTCUSD price
 * Latest awesome quotes from Adafruit!
 
-Explanation: https://dev.to/bopr/custom-e-paper-dashboard-eo9-temp-slug-8551984?preview=5052d08daa62358137f0c0cbedc8376558668546735d2536bc235a8cfa24f92e5e3b9ce8d917ae1f452abe5a3b22ddc17192d86b4a5dc83b06619af8
+Explanation: https://dev.to/bopr/custom-e-paper-dashboard-4404
 
 ![2.7 inch ePaper display](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xedinpkevhw5xivjedkr.jpg)
 
